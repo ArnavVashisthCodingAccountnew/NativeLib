@@ -1,12 +1,10 @@
 <h1 align="center">
-  <a href="https://reactnative.dev/">
-    React Native
-  </a>
+NativeLib
 </h1>
 
 <p align="center">
   <strong>Learn once, write anywhere:</strong><br>
-  Build mobile apps with React.
+  Build mobile apps with NativeLib.
 </p>
 
 <p align="center">
